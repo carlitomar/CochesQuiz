@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paises>
+    <pais>
+        <nombre>BMW</nombre>
+        <coche>bmw</coche>
+    </pais>
+    <pais>
+        <nombre>ferrari</nombre>
+        <coche>ferrari</coche>
+    </pais>
+    <pais>
+        <nombre>Lamborgini</nombre>
+        <coche>lamborgini</coche>
+    </pais>
+    <pais>
+        <nombre>Seat</nombre>
+        <coche>seat</coche>
+    </pais>
+</paises>
